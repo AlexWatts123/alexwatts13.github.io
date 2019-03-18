@@ -1,0 +1,48 @@
+.header {
+  padding: 2.5%; 
+  text-align: center; 
+  background: #229ECB; 
+  color: white; 
+}
+
+
+.header h1 {
+  font-size: 40px;
+  font-family: 'Roboto Slab', serif;
+}
+
+a {
+	font-family: 'Roboto Condensed', sans-serif;
+	color: #12355C;
+	font-size: 18px;
+	text-decoration: none;
+	padding: 10px;
+	margin: 25px;
+	width: 400px;
+	text-align: center;
+	}
+div.body {
+    padding: 0.5%;
+	background: #0173B5;
+}
+a:hover {color: rgb(192, 192, 192);
+         border-color: rgb(192, 192, 192);
+}
+
+div.projects {
+	font-family: 'Roboto Condensed', sans-serif;
+	padding: 0.2%;
+	background:#25548A;
+	text-align: top;
+}
+div.bottom {
+	font-family: 'Roboto Condensed', sans-serif;
+	padding: 0.2%;
+	background:#00225A;
+	text-align: bottom;
+	color: white;
+}
+div.filler {
+	padding: 6%;
+	background:#00225A;
+}
